@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: 
 title: "Haoxuan Yang - ECE 3514 Spring"
 author_profile: true
 redirect_from: 
